@@ -1,0 +1,126 @@
+{
+  "status": "ok",
+  "totalResults": 12,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": null,
+      "title": "Ban On Political Road Shows, Rallies Extended Till February 11",
+      "description": "Days ahead of the upcoming assembly elections in five states, the Election Commission today extended the ban on roadshows, Pad-yatras, cycle/bike/vehicle rallies and processions till February 11, 2022.",
+      "url": "https://www.ndtv.com/india-news/ban-on-political-road-shows-rallies-extended-till-february-11-2739730",
+      "urlToImage": "https://c.ndtvimg.com/2022-01/viqs9of_aap-punjab-rally-pti_625x300_16_January_22.jpg",
+      "publishedAt": "2022-01-31T10:48:00+00:00",
+      "content": "Elections 2022: Rallies and processions have been banned till February 11. (Representational)\r\nNew Delhi: Days ahead of the upcoming assembly elections in five states, the Election Commission today e… [+1537 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Pennsylvania, Arizona, Alabama: the Senate primary races to watch in 2022",
+      "description": "These are the competitive Senate primaries that will help shape the 2022 midterm general elections.",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2022/01/31/2022-midterm-elections-senate-primaries-shape-race/9198790002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/28/USAT/0c6c62f3-ba7b-4f10-855a-459ea949812b-XXX_Midterm_Elections_16.jpg?auto=webp&crop=3399,1912,x0,y345&format=pjpg&width=1200",
+      "publishedAt": "2022-01-31T10:01:33+00:00",
+      "content": "WASHINGTON – A series of consequential primary races this spring and summer will shape the Senate field before the November midterm general elections, with control of the chamber and the fate of Pres… [+14106 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": null,
+      "title": "\"Cases Before Election\": Supreme Court To Punjab In Akali Leader's Case",
+      "description": "A bench comprising Chief Justices N V Ramana and Justices A S Bopanna and Hima Kohli, however, directed Mr Majithia to surrender before a trial court after the Punjab assembly polls scheduled on February 20.",
+      "url": "https://www.ndtv.com/india-news/punjab-assembly-election-2022-relief-for-akali-dal-leader-bikram-singh-majithia-in-drugs-case-no-arrest-till-february-23-says-supreme-court-2739407",
+      "urlToImage": "https://c.ndtvimg.com/2020-11/6c27m3o_bikram-majithia-650_625x300_21_November_20.jpg",
+      "publishedAt": "2022-01-31T09:08:00+00:00",
+      "content": "Punjab Elections 2022: Voting for Punjab's 117-member assembly will be held on February 20.\r\nNew Delhi: The Supreme Court on Monday directed Punjab Police to not arrest Akali leader Bikram Singh Maji… [+3074 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Democrats want to control our children: Bruce",
+      "description": "Fox News contributor Tammy Bruce reacts to Pelosi's announcement that she will seek re-election in 2022 midterms on 'The Next Revolution.'",
+      "url": "https://video.foxnews.com/v/6294532446001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24b53dc4-4e1d-46ff-841c-f1e4cfd4c2e3/b46bf816-53b1-4941-b241-823e6a99ebd5/1280x720/match/image.jpg",
+      "publishedAt": "2022-01-31T05:37:24.2700668Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Portugal election: Socialists win unexpected majority",
+      "description": "A snap election was called after Prime Minister António Costa's budget failed to pass.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-60194375",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8723/production/_123059543_mediaitem123059542.jpg",
+      "publishedAt": "2022-01-31T05:07:21.6453763Z",
+      "content": "Image caption, António Costa's Socialist Party won an unexpected overall majority\r\nPortugal's ruling Socialist Party has won an unexpected outright majority in Sunday's snap general election for only… [+1811 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "'He must be kidding': Lawmaker reacts after Trump goes after Pence - CNN Video",
+      "description": "Rep. Zoe Lofgren (D-CA) responds after former President Trump released a statement criticizing former Vice President Mike Pence for not overturning the 2020 presidential election.",
+      "url": "http://us.cnn.com/videos/politics/2022/01/31/zoe-lofgren-mike-pence-donald-trump-2020-election-nrwknd-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220130210607-lofgren-1-30-2021-super-tease.jpeg",
+      "publishedAt": "2022-01-31T04:52:30.9722096Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sarah Fortinsky",
+      "title": "Trump says he wanted Pence to overturn the 2020 election and falsely claims it was vice president's 'right'",
+      "description": "Former President Donald Trump in a statement Sunday said he wanted then-Vice President Mike Pence to overturn the 2020 presidential election, repeating the false claim that Pence had the power to do so and slamming recent bipartisan efforts to reform the Elec…",
+      "url": "http://us.cnn.com/2022/01/30/politics/trump-pence-2020-election/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220130230013-donald-trump-rally-texas-01292022-super-tease.jpg",
+      "publishedAt": "2022-01-31T04:17:29Z",
+      "content": "(CNN)Former President Donald Trump in a statement Sunday said he wanted then-Vice President Mike Pence to overturn the 2020 presidential election, repeating the false claim that Pence had the power t… [+2897 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Gowdy: The GOP argument is to have a competent federal government",
+      "description": "‘Sunday Night in America’ host analyzes the Republican platform heading into the 2022 midterm elections.",
+      "url": "https://video.foxnews.com/v/6294522529001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dae63cbb-18f4-47b7-9410-79087a5fafe0/9f4cf107-27d5-4e6b-9dbd-866c6d448392/1280x720/match/image.jpg",
+      "publishedAt": "2022-01-31T01:52:18.4891545Z",
+      "content": null
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Jacob Bliss",
+      "title": "TX Poll: O'Rourke Trails Gov. Abbott by Five Point in General Election",
+      "description": "In the most recent hypothetical gubernatorial poll Greg Abbott holds a five-point lead over Beto O'Rourke.",
+      "url": "https://www.breitbart.com/politics/2022/01/30/texas-poll-beto-orourke-trails-gov-greg-abbott-five-points-general-election/",
+      "urlToImage": "https://media.breitbart.com/media/2022/01/GettyImages-1357224204mod-640x335.png",
+      "publishedAt": "2022-01-31T00:31:19Z",
+      "content": "In the most recent hypothetical gubernatorial poll from the Hobby School of Public Affairs, Texas Gov. Greg Abbott (R) holds a five-point lead over Democrat Beto O’Rourke.\r\nIn the hypothetical poll, … [+2647 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Tyler Pager",
+      "title": "Trump’s Texas trip illustrates his upsides and downsides for Republicans and their midterm hopes",
+      "description": "The former president encouraged Republicans to vote in the midterm elections but also floated Jan. 6 pardons and protests that GOP candidates were forced to confront.",
+      "url": "https://www.washingtonpost.com/politics/2022/01/30/trump-republican-candidates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YXLUA7UB6II6ZFI4DYGMG4R6KM.jpg&w=1440",
+      "publishedAt": "2022-01-30T23:24:30Z",
+      "content": "The former president also dangled pardons for Jan. 6 rioters and urged his throngs of supporters to descend on New York, Washington or Atlanta for street protests should he be convicted of crimes in … [+8536 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Cameron Joseph",
+      "title": "This GOP Congressman Officiated a Gay Wedding, and It Could Cost Him an Election",
+      "description": "GOP activists in the rural Virginia district are furious that Rep. Denver Riggleman would marry two men. Now they want to take him out.",
+      "url": "https://www.vice.com/en_us/article/qj48e5/this-gop-congressman-officiated-a-gay-wedding-and-it-could-cost-him-an-election",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfce70c5e37600996cccc2/lede/1590677127974-6Y1A6997.jpeg?crop=1xw:0.8462xh;0xw,0.0769xh&resize=1200:*",
+      "publishedAt": "2020-05-28T15:12:03Z",
+      "content": "When Anthony Rek LeCounte and Alex Siciliano tied the knot last summer, they didnt expect their wedding to become a flashpoint in a congressional campaign.\r\n Shortly after moving down to Charlottesvi… [+7013 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Omri Nahmias",
+      "title": "President Donald Trump: Israel keeps having elections, nobody is elected",
+      "description": "Trump joked that his rating in Israel is 98%, and \"if anything happens here, I will take a trip over to Israel to run for prime minister there.”",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/President-Donald-Trump-Israel-keeps-having-elections-nobody-is-elected-607687",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/443370",
+      "publishedAt": "2019-11-13T02:06:00Z",
+      "content": "WASHINGTON - US President Donald Trump on Tuesday, mocked the political stalemate in Israel, in which Israelis \"keep having elections [but] nobody is elected.” \r\nA video circulating in social media, … [+1773 chars]"
+    }
+  ]
+}
