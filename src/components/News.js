@@ -40,9 +40,8 @@ export default class news extends Component {
     
     const url = `https://api.thenewsapi.com/v1/news/all?language=hi,en&locale=${
       this.props.country}&categories=${
-      this.props.category}&page=${
-      this.state.page}&limit=${
-       this.props.pageSize}&api_token=2ldEMhJpN0hF9YmHhxsxxPmR280n6EHu6ifmAkfK`;
+      this.props.category}&page=1&limit=${
+       this.props.pageSize}&api_token=67n8eepdgVBDP5G3rlEewV8oSJLbL3Kiyz5x9otR`;
 
     this.setState({ loading: true });
     let dat = await fetch(url);
@@ -67,13 +66,11 @@ export default class news extends Component {
          page: this.state.page+1,
           
       })
-      let url = `https://newsapi.org/v2/top-headlines?country=${
-        this.props.country
-      }&category=${
-        this.props.category
-      }&apikey=${this.props.apikey}=${
-        this.state.page - 1
-      }&pagesize=${this.props.pageSize}`;
+      const url = `https://api.thenewsapi.com/v1/news/all?language=hi,en&locale=${
+      this.props.country}&categories=${
+      this.props.category}&page=${
+      this.state.page}&limit=${
+       this.props.pageSize}&api_token=67n8eepdgVBDP5G3rlEewV8oSJLbL3Kiyz5x9otR`;
       this.setState({ loading: true });
       let dat = await fetch(url);
       this.props.setprogress(30);
