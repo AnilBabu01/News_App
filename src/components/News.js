@@ -78,8 +78,8 @@ export default class news extends Component {
       this.props.setprogress(50);
   
       this.setState({
-        page: this.state.page - 1,
-        articles: this.state.articles.concat( parsedata.articles),
+        page: this.state.page + 1,
+        articles: this.state.articles.concat( parsedata.data),
         totalResults: parsedata.totalResults,
         loading: false,
       
