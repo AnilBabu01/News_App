@@ -47,7 +47,7 @@ const News = (props) => {
     const url = `https://api.thenewsapi.com/v1/news/all?language=hi,en&locale=${props.country}&categories=${props.category}&page=${page}&limit=${props.pageSize}&api_token=67n8eepdgVBDP5G3rlEewV8oSJLbL3Kiyz5x9otR`;
     setloading(true);
 
-    let dat = await fetch(url);
+    let dat =await fetch(url);
     props.setprogress(30);
     let parsedata = await dat.json();
     props.setprogress(50);
