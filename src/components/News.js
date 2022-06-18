@@ -62,7 +62,7 @@ const News = (props) => {
 
   return (
     <>
-      <h1 className="text-center" style={{ margin: "40px 0px" }}>
+      <h1 className="text-center" style={{ margin: "60px 0px" }}>
         News Top {capatalized(props.category)} Headlines From - Category
       </h1>
 

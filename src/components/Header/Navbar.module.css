@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  background-color: black;
+  color:white;
+  box-shadow: 1px 1px 1px 1px #e2d9d9;
+  z-index :0;
+}
+
+.logo {
+  font-size: 30px;
+  padding-left: 10px;
+}
+
+.navlinks {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  color:white;
+}
+
+
+.home,
+.about,
+.login,
+.singup {
+  text-decoration: none;
+
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  color:white;
+}
+
+.mobileMenuIcon {
+  display: none;
+}
+
+@media screen and (max-width: 780px) {
+  .log {
+    display: flex;
+    position: fixed;
+    top: 15px;
+    left: 35px;
+  }
+
+  .navlinks {
+    display: none;
+  }
+  .mobilelinks {
+    position: absolute;
+    display: block;
+    list-style: none;
+    background-color: black;
+    color: white;
+    left: 0;
+    top: 60px;
+    transition: all 0.5s ease-out;
+    width: 100%;
+    box-shadow: 1px 1px 1px 1px #e2d9d9;
+    padding-right: 33px;
+  }
+
+  .home,
+  .about,
+  .login,
+  .singup {
+    color: white;
+    text-align: center;
+    padding: 2px;
+    width: 100%;
+    transition: all 0.5s ease-out;
+    display: grid;
+  }
+
+  .mobileMenuIcon {
+    display: block;
+
+    font-size: 30px;
+    border: none;
+    outline: none;
+    top: 15px;
+    right: 25px;
+  }
+  .mobilestyle {
+  }
+}
