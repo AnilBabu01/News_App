@@ -62,9 +62,12 @@ const News = (props) => {
 
   return (
     <>
-      <h1 className="text-center" style={{ margin: "60px 0px" }}>
+      <div>
+      <h1 className="text-center" style={{ marginTop:"120px",marginBottom:'50px'}}>
         News Top {capatalized(props.category)} Headlines From - Category
       </h1>
+      </div>
+    
 
       {loading && <Spinner />}
       <InfiniteScroll
